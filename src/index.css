@@ -19,6 +19,7 @@ button {
   --neon-green: hsl(150, 100%, 66%);
   --grayish-blue: hsl(217, 19%, 38%);
   --dark-grayish-blue: hsl(217, 19%, 24%);
+  --box-shadow-button: rgba(82, 255, 168, 0.25);
 }
 
 
@@ -100,6 +101,8 @@ body {
 
 .container button:hover {
   background-color: hsl(150, 59%, 54%);
+  box-shadow: 0px 0px 20px 10px var(--box-shadow-button);
+  transition: .5s all ease-in-out;
 }
 
 @media (min-width: 500px) {
