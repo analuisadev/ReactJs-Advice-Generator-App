@@ -27,9 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Advice Generator APP é um projeto de geração de conselhos variados.
 
-- [Acesse o projeto finalizado, online](https://github.com/analuisadev/ReactJs-Advice-Generator-App)
-
-## 🔖 Layout
+- [Acesse o projeto finalizado, online](https://analuisadev-reactjs-advice-generator.netlify.app/)
 
 ## :memo: Licença
 
